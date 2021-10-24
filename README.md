@@ -1,5 +1,7 @@
 # INSERTION SORT PROJESI
 
+### Bu proje Kodluyoruz Eğitiminin Veri Yapıları ve Algoritmalar dersinin son bölümündeki Merge Sort Projesi için oluşturulmuştur, içerisinde bir adet README dosyası barındırıyor.
+
 #  **[22,27,16,2,18,6]**
 
 1. **Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.**
